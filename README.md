@@ -10,7 +10,8 @@
 
 ![image](https://github.com/hanashofiyah/flutter_my_wise_word/assets/104729134/94d99b98-cacb-400f-a5b1-dd1bcd47766a)
 
-![Uploading image.png…]()
+![image](https://github.com/hanashofiyah/flutter_my_wise_word/assets/104729134/ac0d8610-37dc-4cf0-ac82-8364e7c89f15)
+
 
 
 
