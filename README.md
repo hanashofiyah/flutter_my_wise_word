@@ -1,5 +1,5 @@
 # flutter_my_wise_word 
-# code's folder in branch master
+# code's folders in branch master
 
 ![image](https://github.com/hanashofiyah/flutter_my_wise_word/assets/104729134/5a230a76-7c5c-4fc1-8dba-05f47ce48687)
 
