@@ -1,16 +1,17 @@
-# my_flutter
+# flutter_my_wise_word
 
-A new Flutter project.
+![image](https://github.com/hanashofiyah/flutter_my_wise_word/assets/104729134/5a230a76-7c5c-4fc1-8dba-05f47ce48687)
 
-## Getting Started
+![image](https://github.com/hanashofiyah/flutter_my_wise_word/assets/104729134/20cec73f-7dd8-44a5-a63f-1280f4aca03e)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/hanashofiyah/flutter_my_wise_word/assets/104729134/b8288646-cbe0-479e-9460-9eb09122adb3)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/hanashofiyah/flutter_my_wise_word/assets/104729134/553a6e58-46a3-475d-8279-3f319c89f378)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/hanashofiyah/flutter_my_wise_word/assets/104729134/94d99b98-cacb-400f-a5b1-dd1bcd47766a)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/hanashofiyah/flutter_my_wise_word/assets/104729134/ac0d8610-37dc-4cf0-ac82-8364e7c89f15)
+
+
+
+
